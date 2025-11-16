@@ -1,4 +1,4 @@
-# Project Background
+# Project Background 🖼️
 Recently, companies worldwide across various industries have been discovering marketing opportunities in video games and esports. From content creator partnerships and fan events like Red Bull Solo Q to digital in-game branding—such as Adidas banners in FIFA or Barack Obama’s campaign billboards in Madden NFL—the gaming sector offers unique avenues for audience engagement. Before entering the ecosystem of video games as an advertiser or strategic partner, it is essential to consider key areas like:
 
 - **Market Size and Growth**
@@ -13,7 +13,7 @@ Power BI file used to report and explore sales trends can be found [here](vg_sal
 
 
 
-# Data Structure & Initial Checks
+# Data Structure & Initial Checks ✔️
 
 The original dataset provides information about game title, genre, device, critic score, total sales, sales in Europe/North America/Japan/Other. After removing rows with incomplete records and adding an index column, the dataset was transformed – columns containing regional sales were unpivoted and then filtered, so only the top 100 games were left. The original table was split into 2 fact tables and 1 dimensional as you can see below:
 
@@ -21,7 +21,7 @@ The original dataset provides information about game title, genre, device, criti
 
 
 
-# Executive Summary
+# Executive Summary 🔑
 
 ### Overview of Findings
 
@@ -31,7 +31,7 @@ The console video game market is primarily led by major franchises such as Call 
 
 
 
-# Insights Deep Dive
+# Insights Deep Dive 🔎
 ### Market Size & Growth:
 
 Between 2009 and 2011, the console video game market saw significantly high revenue, largely due to the popularity of the Call of Duty series, which dominated sales at the time. After 2014, revenues began a gradual decline, likely influenced by the rise of PC games based on microtransaction models. Unlike traditional console games, which require players to purchase the game upfront, many PC games with microtransactions are freely available to download, allowing players to gradually spend smaller amounts within the game. This model has been particularly appealing as it reduces the barrier to entry and enables flexible spending, drawing some players away from console titles. Looking ahead, the console gaming market is expected to stabilize or slightly decline, with occasional revenue spikes likely when particularly popular titles are released. With the modern trend of multi-platform releases—including games that support crossplay on both PC and consoles—a steady revenue stream for consoles is likely, though still lower than for PC gaming.
@@ -50,7 +50,7 @@ Over the years, regional market shares in console gaming have undergone noticeab
   
 
 
-# Recommendations:
+# Recommendations 📋
 
 Based on the insights and findings above, I would recommend any organization willing to enter the gaming ecosystem to consider the following: 
 
@@ -67,7 +67,7 @@ By partnering on remakes, exclusive retro merchandise, or revamped editions of t
 
 
 
-# Assumptions and Caveats:
+# Assumptions and Caveats ⚠️
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
